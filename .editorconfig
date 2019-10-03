@@ -1,0 +1,19 @@
+# Editorconfig configures the editor behavior as you expect.
+# For example, if you'd like to use tabs for indentation, the editor will respect that.
+# The downsides of editor config is that it cannot format the code if the user goes against it
+# Prettier can be used as a last resort to make you code format as yo expect.
+
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+end_of_line = lf
+# editorconfig-tools is unable to ignore longs strings or urls
+max_line_length = off
+
+[CHANGELOG.md]
+indent_size = false
