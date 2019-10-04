@@ -1,7 +1,7 @@
 {
-  "name": "itssiva.com",
+  "name": "simple-server",
   "version": "1.0.0",
-  "description": "My personal website",
+  "description": "Simple Server boiler plate",
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1"
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itssiva/itssiva.com.git"
+    "url": "git+https://github.com/itssiva/simple-server.git"
   },
   "author": "Siva Ponugoti",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/itssiva/itssiva.com/issues"
+    "url": "https://github.com/itssiva/simple-server/issues"
   },
-  "homepage": "https://github.com/itssiva/itssiva.com#readme"
+  "homepage": "https://github.com/itssiva/simple-server#readme"
 }
